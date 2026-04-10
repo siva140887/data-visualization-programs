@@ -7,3 +7,6 @@ The repository contains Python codes for data visualization topics like Numpy ar
 ## dataset
 The datasets used in this project are:
 - [mtcars](https://www.kaggle.com/datasets/lavanya321/mtcars)
+- [IPL-Dataset](https://github.com/12345k/IPL-Dataset/blob/master/IPL/data.csv)
+- [IPL Player Stats Dataset](https://www.kaggle.com/datasets/saivarunreddy1904/ipl-player-stats-dataset)
+- 
