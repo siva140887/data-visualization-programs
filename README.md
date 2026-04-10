@@ -3,6 +3,5 @@ The repository contains python codes for data visualization topics like Numpy ar
 
 - `Datavisualization.ipynb`: Python code for the exercises of Labs 1 &ndash; 9.
 - `Lab_manual.pdf`: Exercises of Labs 1 &ndash; 9.
-
-## Dataset
-The dataset used in this project is the [Titanic - Machine Learning from Disaster](https://kaggle.com) provided by Kaggle.
+- The datasets used in this project are:
+  - 
