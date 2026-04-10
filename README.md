@@ -12,5 +12,5 @@ The datasets used in this project are:
 - [IPL Player Stats Dataset](https://www.kaggle.com/datasets/saivarunreddy1904/ipl-player-stats-dataset)
 - [Northwind](https://github.com/ndleah/northwind)
   > [!NOTE]
-  > requires dataset generation!!
+  > Requires dataset generation!!
 - [Social Media Sentiments Analysis Dataset](https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset)
